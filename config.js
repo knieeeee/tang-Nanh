@@ -1,6 +1,6 @@
 const CONFIG = {
     introTitle: 'Nanh iu ơi!',
-    introDesc: `b_autiful hoàn chỉnh hơn khi có e`,
+    introDesc: 'b_autiful hoàn chỉnh hơn khi có e',
     btnIntro: 'hihi',
     title: 'Phải chăng Nanh iu mình 😘',
     desc: 'Nanh iu mình hông :3333333',
