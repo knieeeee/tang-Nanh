@@ -3,7 +3,7 @@ const CONFIG = {
     introDesc: `b_autiful hoàn chỉnh hơn khi có e`,
     btnIntro: 'hihi',
     title: 'Phải chăng Nanh iu mình 😘',
-    desc: ,
+    desc: 'Nanh iu mình hông :3333333',
     btnYes: 'Vẫn là Kiên hiểu Nanh nhất',
     btnNo: 'Mơ à :3',
     question:'Trên thế giới hơn 7 tỉ người mà sao Nanh lại yêu Kiên <3',
@@ -12,5 +12,5 @@ const CONFIG = {
     mess: 'ối tim tôi <3333333333',
     messDesc: 'Yêu NANHHHHHHHHHHHHH.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' https://www.facebook.com/profile.php?id=100066933925753
+    messLink: 'http://fb.com' https:https://www.facebook.com/profile.php?id=100066933925753
 }
