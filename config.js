@@ -1,16 +1,16 @@
 const CONFIG = {
-    introTitle: 'Bé ngin à!',
+    introTitle: 'Bé à!',
     introDesc: 'b_autiful hoàn chỉnh hơn khi có e',
     btnIntro: 'hihi',
-    title: 'Phải chăng ngin là 1 con nợn 😘',
+    title: 'Phải chăng là 1 con nợn 😘',
     desc: 'Ngin là lợn phải hông :3333333',
     btnYes: 'Đúm dị',
     btnNo: 'Hông phảiiiii :)',
-    question:'thía ngin là cái j',
-    btnReply: 'Gửi cho bé kin :>',
+    question:'thía là cái j',
+    btnReply: 'Gửi cho bé :>',
     reply: 'béeeeeeeeee nginnnnnnn :))',
     mess: 'lớp diu :33',
-    messDesc: 'tha lỗi Kin nhó :<.',
+    messDesc: 'tha lỗi nhó :<.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'http://fb.com' 
   
