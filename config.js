@@ -12,5 +12,6 @@ const CONFIG = {
     mess: 'lớp diu :33',
     messDesc: 'tha lỗi Kin nhó :<.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' https:https://www.facebook.com/profile.php?id=100066933925753
+    messLink: 'http://fb.com' https:https:
+    
 }
