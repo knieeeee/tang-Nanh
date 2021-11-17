@@ -3,7 +3,7 @@ const CONFIG = {
     introDesc: 'b_autiful hoàn chỉnh hơn khi có e',
     btnIntro: 'hihi',
     title: 'Phải chăng là 1 con nợn 😘',
-    desc: 'là lợn phải hông :3333333',
+    desc: 'Bé là lợn phải hông :3333333',
     btnYes: 'Đúm dị',
     btnNo: 'Hông phảiiiii :)',
     question:'thía là cái j',
